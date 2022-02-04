@@ -59,12 +59,12 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:8080/api/film",
+					"raw": "http://localhost:8180/api/film",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8080",
+					"port": "8180",
 					"path": [
 						"api",
 						"film"
@@ -118,12 +118,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8080/api/film/1",
+					"raw": "http://localhost:8180/api/film/1",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8080",
+					"port": "8180",
 					"path": [
 						"api",
 						"film",
